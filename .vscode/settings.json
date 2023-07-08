@@ -1,0 +1,10 @@
+{
+  "azureFunctions.deploySubpath": "service-bus-trigger-demo\\src\\ServicebusTriggerDemo/bin/Release/net6.0/publish",
+  "azureFunctions.projectLanguage": "C#",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "publish (functions)",
+  "dotnet.defaultSolution": "service-bus-trigger-demo\\src\\ServicebusTriggerDemo.sln",
+  "azurite.location": ".temp/azurite",
+  "azureFunctions.projectSubpath": "service-bus-trigger-demo\\src\\ServicebusTriggerDemo"
+}
