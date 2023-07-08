@@ -1,0 +1,1 @@
+# azure-function-managed-identity-demo
